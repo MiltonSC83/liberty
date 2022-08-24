@@ -24,9 +24,9 @@ Se crearon formularios en los que se inserta o actualiza la información de los 
 
 ![image](https://user-images.githubusercontent.com/42243730/186347772-6e478ffe-46ae-4e76-aa8b-b391d4f8e638.png)
 
-Es posible elegir la imagen a partir de los archivos de nuestra computadora
+La imagen a insertar se elige a partir de los archivos de nuestra computadora
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/42243730/186352277-d3c09f7c-9018-4c63-a3b6-da3b09d16361.png)
 
 Se trabajaron algunas validaciones como la verificación del tipo de archivo que agrega el usuario cuando se asigna la imagen de perfil
 
