@@ -12,7 +12,8 @@ Se agregaron las dependencias correspondientes para poder usar las herramientas 
 Por medio de un proyecto Maven en java, se creó una aplicación web que permite la gestión de los usuarios, permitiéndonos realizar funciones como listar, agregar, modificar y eliminar usuarios.
 ![image](https://user-images.githubusercontent.com/42243730/186347172-ebde9df7-72b2-4f84-aa81-785f566126e6.png)
 
-Se crearon formularios en los que se inserta o actualiza la información de los usuarios y adicionalmente se agrega una imagen como foto de perfil del usuario
+Se crearon formularios en los que se inserta o actualiza la información de los usuarios y adicionalmente se agrega una imagen como foto de perfil del usuario.
+
 ![image](https://user-images.githubusercontent.com/42243730/186347772-6e478ffe-46ae-4e76-aa8b-b391d4f8e638.png)
 
 Se trabajaron algunas validaciones como la verificación del tipo de archivo que agrega el usuario cuando se asigna la imagen de perfil
