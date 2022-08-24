@@ -32,6 +32,10 @@ Se trabajaron algunas validaciones como la verificación del tipo de archivo que
 
 ![image](https://user-images.githubusercontent.com/42243730/186348068-df87a866-8a2e-4d07-b608-4d56903a6ca3.png)
 
+La información de los usuarios existentes es cargada exitosamente permitiéndonos agregar, quitar o modificar la información de los campos
+
+![image](https://user-images.githubusercontent.com/42243730/186352905-3d7c1dc9-2da5-42f6-b9b8-c63fe5d3b021.png)
+
 Para la entrada del campo Status, se manejó un tipo de entrada distinto en donde sólo se da al usuario la opción de escoger entre activo e inactivo
 
 ![image](https://user-images.githubusercontent.com/42243730/186351680-ab5f1cc2-fd54-4c51-9fe1-3734e66a586e.png)
