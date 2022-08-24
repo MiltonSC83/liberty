@@ -2,7 +2,7 @@
 
 Proyecto de Gestión de usuarios realizado en Java con la implementación de Spring
 
-![image](https://user-images.githubusercontent.com/42243730/186346515-4423512c-696f-4276-a451-5fa986ea4729.png)
+![image](https://user-images.githubusercontent.com/42243730/186353169-5a878544-af94-40c4-9345-4ef2710036b6.png)
 
 Se creó una base de datos utilizando Mysql para guardar información de usuarios tal como el Nombre, email, género y estatus
 
