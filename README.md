@@ -4,6 +4,8 @@ Proyecto de Gestión de usuarios realizado en Java con la implementación de Spr
 
 ![image](https://user-images.githubusercontent.com/42243730/186353169-5a878544-af94-40c4-9345-4ef2710036b6.png)
 
+![image](https://user-images.githubusercontent.com/42243730/186353272-f9aa2b22-57fe-45a3-a6c0-3c070346d3f6.png)
+
 Se creó una base de datos utilizando Mysql para guardar información de usuarios tal como el Nombre, email, género y estatus
 
 ![image](https://user-images.githubusercontent.com/42243730/186346900-71bbdaaf-2ff3-40bc-8764-a50d7a419109.png)
